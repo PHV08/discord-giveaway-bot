@@ -1,5 +1,9 @@
 # Giveaway Bot
 
+## This project isnt coded by me i just modified and fixed some errors. SO 80% of credits goes to `https://github.com/Androz2091`
+
+
+
 🎁 Giveway Bot with slash commands made using the [discord-giveaways](https://npmjs.com/discord-giveaways) package!
 
 ## Features

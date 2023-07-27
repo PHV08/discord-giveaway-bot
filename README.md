@@ -23,7 +23,7 @@
 
 * Clone the repository (Or download it manually):
 ```sh
-git clone https://github.com/Androz2091/giveaways-bot
+https://github.com/PHV08/discord-giveaway-bot.git
 ```
 
 * Fill the configuration file (config.json):
